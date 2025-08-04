@@ -45,5 +45,7 @@ This will raise the overall performance of the organization by ensuring that all
 		COUNTRY – Country in which the employee is presently living
 		CONTINENT – Continent in which the country is
 
+### query to create DB and the tables
 
 ![p1-s1](https://github.com/user-attachments/assets/c13e7fee-e8ea-4920-9a79-73b29408df1a)
+![p1-s1](https://github.com/user-attachments/assets/510f9349-70b8-4718-8bd4-c724cfbb82cd)
