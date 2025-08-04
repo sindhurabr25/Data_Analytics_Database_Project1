@@ -57,3 +57,4 @@ This will raise the overall performance of the organization by ensuring that all
 ### Written Queries
 
 ![p1-s4](https://github.com/user-attachments/assets/bb216b16-1bf8-43b4-b4bd-7fc67f0a197b)
+![p1-s5](https://github.com/user-attachments/assets/26fea0ec-9821-4555-9b43-5c5a90bec791)
