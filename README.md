@@ -53,3 +53,7 @@ This will raise the overall performance of the organization by ensuring that all
 ### ER diagram
 
 ![p1-s3](https://github.com/user-attachments/assets/b6ac8658-66a8-4830-9d22-7f6e40bcedff)
+
+### Written Queries
+
+![p1-s4](https://github.com/user-attachments/assets/bb216b16-1bf8-43b4-b4bd-7fc67f0a197b)
