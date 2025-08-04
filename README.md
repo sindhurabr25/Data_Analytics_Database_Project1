@@ -10,10 +10,10 @@ This will raise the overall performance of the organization by ensuring that all
 ### Dataset description:
  
 emp_record_table: It contains the information of all the employees.
-•	EMP_ID – ID of the employee
-•	FIRST_NAME – First name of the employee
-•	LAST_NAME – Last name of the employee
-•	GENDER – Gender of the employee
+> •	EMP_ID – ID of the employee
+>•	FIRST_NAME – First name of the employee
+> •	LAST_NAME – Last name of the employee
+>•	GENDER – Gender of the employee
 •	ROLE – Post of the employee
 •	DEPT – Field of the employee
 •	EXP – Years of experience the employee has
