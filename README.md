@@ -46,3 +46,4 @@ This will raise the overall performance of the organization by ensuring that all
 		CONTINENT – Continent in which the country is
 
 
+![p1-s1](https://github.com/user-attachments/assets/c13e7fee-e8ea-4920-9a79-73b29408df1a)
