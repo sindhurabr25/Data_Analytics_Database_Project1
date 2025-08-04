@@ -17,12 +17,12 @@ This will raise the overall performance of the organization by ensuring that all
 		ROLE – Post of the employee
 		DEPT – Field of the employee
 		EXP – Years of experience the employee has
-                COUNTRY – Country in which the employee is presently living
-		CONTINENT – Continent in which the country is
+                CONTINENT – Continent in which the country is
 		SALARY – Salary of the employee
 		EMP_RATING – Performance rating of the employee
 		MANAGER_ID – The manager under which the employee is assigned
 		PROJ_ID – The project on which the employee is working or has worked on
+                COUNTRY – Country in which the employee is presently living
 
  
 ### Proj_table: It contains information about the projects.
