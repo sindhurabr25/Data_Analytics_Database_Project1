@@ -58,3 +58,5 @@ This will raise the overall performance of the organization by ensuring that all
 
 ![p1-s4](https://github.com/user-attachments/assets/bb216b16-1bf8-43b4-b4bd-7fc67f0a197b)
 ![p1-s5](https://github.com/user-attachments/assets/26fea0ec-9821-4555-9b43-5c5a90bec791)
+![p1-s6](https://github.com/user-attachments/assets/1980f132-0ce3-43c0-9c11-49cd1f08c5b2)
+![p1-s7](https://github.com/user-attachments/assets/c8e744ac-e23e-496b-ba1f-6f8c7cd8de8b)
