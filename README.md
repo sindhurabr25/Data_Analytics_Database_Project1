@@ -17,12 +17,12 @@ This will raise the overall performance of the organization by ensuring that all
 		ROLE – Post of the employee
 		DEPT – Field of the employee
 		EXP – Years of experience the employee has
-                CONTINENT – Continent in which the country is
+        CONTINENT – Continent in which the country is
 		SALARY – Salary of the employee
 		EMP_RATING – Performance rating of the employee
 		MANAGER_ID – The manager under which the employee is assigned
 		PROJ_ID – The project on which the employee is working or has worked on
-                COUNTRY – Country in which the employee is presently living
+        COUNTRY – Country in which the employee is presently living
 
  
 ### Proj_table: It contains information about the projects.
@@ -60,3 +60,4 @@ This will raise the overall performance of the organization by ensuring that all
 ![p1-s5](https://github.com/user-attachments/assets/26fea0ec-9821-4555-9b43-5c5a90bec791)
 ![p1-s6](https://github.com/user-attachments/assets/1980f132-0ce3-43c0-9c11-49cd1f08c5b2)
 ![p1-s7](https://github.com/user-attachments/assets/c8e744ac-e23e-496b-ba1f-6f8c7cd8de8b)
+![p1-s8](https://github.com/user-attachments/assets/1a7d192d-0a37-4e8e-a076-a876ac5021a6)
